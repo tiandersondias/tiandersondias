@@ -32,7 +32,7 @@ Operations Manager in career transition, Certified Scrum Master studying Advance
 
 ```
      Apaixonado por tecnologia, programação e solução de problemas. Encontrei dentro 
-     da TI a forma de unir duas paixões: Estudar e programar ❤️
+     da TI a forma de unir minhas paixões: Estudar e programar ❤️
 ```
 ## 📽️Sobre o YouTube
 
