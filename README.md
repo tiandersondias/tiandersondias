@@ -9,7 +9,7 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
   🦄 Languages: 
      
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/CSS-6F00FF?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/PostgreSQL-1b88c5?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,7 +19,7 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
   💼 Frameworks:
 
 ![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
-![image](https://img.shields.io/badge/EXPRESS-239120?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/EXPRESS-091F92?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/VUE.JS-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/NEXT.JS-239120?style=for-the-badge&logo=next.js&logoColor=white)
 
