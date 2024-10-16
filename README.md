@@ -26,7 +26,7 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
 </p>
 
 <p align="left">
-  💼 API Clients:
+  🔗 API Clients:
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -35,7 +35,7 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
 </p>
 
 <p align="left">
-  💼 Tools:
+  🖼️ Prototyping:
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Whimsical](https://img.shields.io/badge/-Whimsical-333333?style=flat&logo=whimsical)
