@@ -17,7 +17,8 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
 <p align="left">
   💼 Frameworks:
 
-![image](https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/REACT-JS-239120?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/EXPRESS-JS-239120?style=for-the-badge&logo=react&logoColor=white)
 
 </p>
 
