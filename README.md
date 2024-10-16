@@ -49,7 +49,7 @@ Feel free to check out my repositories and follow along as I build out my knowle
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Postman](https://img.shields.io/badge/-Thunder-333333?style=flat&logo=thunder)
+![Postman](https://img.shields.io/badge/-ThunderClient-333333?style=flat&logo=thunderclient)
 
 </p>
 
