@@ -32,12 +32,11 @@ Operations Manager in career transition, Certified Scrum Master studying Advance
 | YouTube | [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@manualdoagilista)
 
 ```
-     Apaixonado por tecnologia, programação e solução de problemas. Encontrei dentro 
-     da TI a forma de unir minhas paixões: Estudar e programar ❤️
+     Passionate about technology, programming and problem-solving. I found within IT the way to unite my passions: Studying and programming ❤️
 ```
-## 📽️Sobre o YouTube
+## 📽️YouTube
 
-Bem-vindo ao "Manual do Agilista", o canal onde simplificamos a gestão de projetos com foco em metodologias ágeis. Sou Anderson, um profissional brasileiro com mais de 16 anos de experiência em operações logísticas e manufatura, graduado em gestão da tecnologia da informação e atualmente concluindo uma pós-graduação em Gestão Avançada de Projetos no Canadá. Aqui, compartilhamos as melhores práticas, ferramentas e insights para você se tornar um verdadeiro agilista e alcançar o sucesso em seus projetos. Discutimos desde as certificações mais valorizadas até as últimas tendências em Scrum, Kanban e outras abordagens ágeis. Se você é um estudante, um profissional da área ou simplesmente interessado em transformar ideias em resultados de forma ágil, este é o lugar certo para você. Inscreva-se e embarque nessa jornada de aprendizado e transformação ágil!
+Welcome to the "Agilist's Handbook", the channel where we simplify project management with a focus on agile methodologies. I'm Anderson, a Brazilian professional with several years of experience in logistics and manufacturing operations, a graduate in information technology management and currently completing a postgraduate degree in Advanced Project Management in Canada. Here, we share the best practices, tools and insights for you to become a true agilist and achieve success in your projects. We discuss everything from the most valued certifications to the latest trends in Scrum, Kanban and other agile approaches. If you are a student, a professional in the field or simply interested in transforming ideas into results in an agile way, this is the right place for you. Sign up and embark on this journey of learning and agile transformation!
 
-Rotina de estudos | Vlog | Programação | Transição de carreira 
+Study routine | Vlog | Programming | Career transition 
  
