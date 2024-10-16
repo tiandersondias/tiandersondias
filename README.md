@@ -4,13 +4,13 @@
      <h1>Hi there, I'm Anderson Conceicao 👋</h1>
 I’m an Operations Manager transitioning into a tech-driven career, currently certified as a Scrum Master and completing my studies in Advanced Project Management. My journey in tech includes hands-on experience in logistics and manufacturing, as well as a passion for learning and building solutions using modern technologies.
 
-What I'm Working On
+<h4>What I'm Working On</h4>
 I'm actively expanding my technical skills by studying and developing projects using:
 
-<h5>React | Vue | Next.js: For dynamic, responsive front-end applications.</h5>
-<h5>Node.js | Express: To create efficient, scalable back-end systems.</h5>
-<h5>HTML | CSS | JavaScript: The building blocks for crafting clean, accessible web interfaces.</h5>
-<h5>My Approach:</h5>
+<h5><strong>React | Vue | Next.js:</strong> For dynamic, responsive front-end applications.</h5>
+<h5><strong>Node.js | Express:</strong> To create efficient, scalable back-end systems.</h5>
+<h5><strong>HTML | CSS | JavaScript:</strong> The building blocks for crafting clean, accessible web interfaces.</h5>
+<h4>My Approach:</h4>
 <h5>With over 16 years of experience in managing operations, I bring a solutions-oriented mindset to every project. I’m excited to apply Agile methodologies to tech projects, keeping the user at the center and ensuring continuous improvement.
 Feel free to check out my repositories and follow along as I build out my knowledge in full-stack development!</h5> 
 💾 <strong>Software Development </strong>⌨️.
