@@ -39,8 +39,8 @@ Feel free to check out my repositories and follow along as I build out my knowle
 ![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/VUE.JS-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/NEXT.JS-239120?style=for-the-badge&logo=next.js&logoColor=white)
-![image](https://img.shields.io/badge/NODE.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/EXPRESS-091F92?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/NODE.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 
 </p>
 
