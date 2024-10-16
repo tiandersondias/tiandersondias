@@ -2,7 +2,7 @@
 
 <p align="left">
      <h1>Anderson Conceicao</h1>
-Operations Manager in career transition, Certified Scrum Master studying Advanced Project Management. Here you will find all my projects, from college work to the ones I designed. 💾 <strong>Software Development </strong>⌨️.
+Operations Manager in career transition, Certified Scrum Master graduating in Advanced Project Management. Here you will find all my projects, from college work to the ones I designed. 💾 <strong>Software Development </strong>⌨️.
 </p>
 
 <p align="left">
@@ -15,14 +15,27 @@ Operations Manager in career transition, Certified Scrum Master studying Advance
 </p>
 
 <p align="left">
-  💼 Tools:
+  💼 Frameworks:
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Whimsical](https://img.shields.io/badge/-Whimsical-333333?style=flat&logo=whimsical)
+![image](https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=reactjs&logoColor=white)
 
 </p>
 
+<p align="left">
+  💼 API Clients:
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+</p>
+
+<p align="left">
+  💼 Tools:
+
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Whimsical](https://img.shields.io/badge/-Whimsical-333333?style=flat&logo=whimsical)
+
+</p>
 
 ## 💻Contact 
 
