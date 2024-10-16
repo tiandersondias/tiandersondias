@@ -1,8 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-     <h1>Anderson Conceicao</h1>
-Operations Manager in career transition, Certified Scrum Master graduating in Advanced Project Management. Here you will find all my projects, from college work to the ones I designed. 💾 <strong>Software Development </strong>⌨️.
+     <h1>Hi there, I'm Anderson Conceicao 👋</h1>
+I’m an Operations Manager transitioning into a tech-driven career, currently certified as a Scrum Master and completing my studies in Advanced Project Management. My journey in tech includes hands-on experience in logistics and manufacturing, as well as a passion for learning and building solutions using modern technologies.
+
+What I'm Working On
+I'm actively expanding my technical skills by studying and developing projects using:
+
+React | Vue | Next.js: For dynamic, responsive front-end applications.
+Node.js | Express: To create efficient, scalable back-end systems.
+HTML | CSS | JavaScript: The building blocks for crafting clean, accessible web interfaces.
+My Approach
+With over 16 years of experience in managing operations, I bring a solutions-oriented mindset to every project. I’m excited to apply Agile methodologies to tech projects, keeping the user at the center and ensuring continuous improvement.
+
+Feel free to check out my repositories and follow along as I build out my knowledge in full-stack development! 💾 <strong>Software Development </strong>⌨️.
 </p>
 
 <p align="left">
