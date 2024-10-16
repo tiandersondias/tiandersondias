@@ -18,9 +18,9 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
 <p align="left">
   💼 Frameworks:
 
-![image](https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/EXPRESS-239120?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/VUE.JS-239120?style=for-the-badge&logo=vue.js&logoColor=white)
+![image](https://img.shields.io/badge/VUE.JS-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/NEXT.JS-239120?style=for-the-badge&logo=next.js&logoColor=white)
 
 </p>
@@ -30,6 +30,7 @@ Operations Manager in career transition, Certified Scrum Master graduating in Ad
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/-Thunder-333333?style=flat&logo=thunder)
 
 </p>
 
