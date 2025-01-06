@@ -67,14 +67,7 @@ Feel free to check out my repositories and follow along as I build out my knowle
 | Contact | Links |
 |-------|---------|
 |LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/conceicaoanderson/)
-| YouTube | [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@manualdoagilista)
 
 ```
-     Passionate about technology, programming and problem-solving. I found within IT the way to unite my passions: Studying and programming ❤️
-```
-## 📽️YouTube
-
-Welcome to the "Agilist's Handbook", the channel where we simplify project management with a focus on agile methodologies. I'm Anderson, a Brazilian professional with several years of experience in logistics and manufacturing operations, a graduate in information technology management and currently completing a postgraduate degree in Advanced Project Management in Canada. Here, we share the best practices, tools and insights for you to become a true agilist and achieve success in your projects. We discuss everything from the most valued certifications to the latest trends in Scrum, Kanban and other agile approaches. If you are a student, a professional in the field or simply interested in transforming ideas into results in an agile way, this is the right place for you. Sign up and embark on this journey of learning and agile transformation!
-
-Study routine | Vlog | Programming | Career transition 
+     Passionate about process, technology, programming and problem-solving. I found within IT the way to unite my passions: Studying and programming ❤️
  
