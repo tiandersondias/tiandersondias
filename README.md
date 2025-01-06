@@ -2,7 +2,7 @@
 
 <p align="left">
      <h1>Hi there, I'm Anderson Conceicao 👋</h1>
-As an Operations Manager transitioning into a tech-driven career, currently certified as a Scrum Master and completing my studies in Advanced Project Management. My journey in tech includes hands-on experience in logistics and manufacturing software design, as well as a passion for learning and building solutions using modern technologies.
+As an Operations Manager transitioning into a tech-driven career, currently certified as a Scrum Master and graduated in Advanced Project Management. My journey in tech includes hands-on experience in logistics and manufacturing software design, as well as a passion for learning and building solutions using modern technologies.
 
 <h4>What I'm Working On</h4>
 Actively expanding my technical skills by studying and developing projects using:
