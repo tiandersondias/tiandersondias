@@ -70,5 +70,5 @@ Feel free to check out my repositories and follow along as I build out my knowle
 |LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/conceicaoanderson/)
 
 ```
-     Passionate about process, technology, programming and problem-solving. I found within IT the way to unite my passions: Studying and programming ❤️
+     Passionate about supply chain, process, technology, programming and problem-solving. I found within IT the way to unite my passions: Studying and programming ❤️
  
