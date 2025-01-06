@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-     <h1>Hi there, I'm Anderson Conceicao 👋</h1>
+     <h1>Hi there, I'm Anderson 👋</h1>
 
 As an experienced Operations Manager, I leverage my background in Information Technology Management to drive process improvements and optimize operational efficiency. My Scrum Master certification and graduation in Advanced Project Management have equipped me with a solid foundation in agile methodologies, allowing me to effectively manage cross-functional teams and deliver results in tech-driven environments. I have hands-on experience in logistics and manufacturing software design, where I applied modern technologies to solve operational challenges. Passionate about continuous learning, I am dedicated to building innovative solutions that streamline processes and improve business performance.
 
