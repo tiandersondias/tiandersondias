@@ -3,7 +3,7 @@
 <p align="left">
      <h1>Hi there, I'm Anderson Conceicao 👋</h1>
 
-As an experienced Operations Manager, I leverage my background in Information Technology Management to drive process improvements and optimize operational efficiency. My Scrum Master certification and graduation in Advanced Project Management have equipped me with a solid foundation in agile methodologies, allowing me to effectively manage cross-functional teams and deliver results in tech-driven environments. I have hands-on experience in **logistics and manufacturing software design**, where I applied modern technologies to solve operational challenges. Passionate about continuous learning, I am dedicated to building innovative solutions that streamline processes and improve business performance.
+As an experienced Operations Manager, I leverage my background in Information Technology Management to drive process improvements and optimize operational efficiency. My Scrum Master certification and graduation in Advanced Project Management have equipped me with a solid foundation in agile methodologies, allowing me to effectively manage cross-functional teams and deliver results in tech-driven environments. I have hands-on experience in logistics and manufacturing software design, where I applied modern technologies to solve operational challenges. Passionate about continuous learning, I am dedicated to building innovative solutions that streamline processes and improve business performance.
 
 <h4>What I'm Working On</h4>
 Actively expanding my technical skills by studying and developing projects using:
