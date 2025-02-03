@@ -23,6 +23,7 @@ Feel free to check out my repositories and follow along as I build out my knowle
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-6F00FF?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 
 </p>
 
