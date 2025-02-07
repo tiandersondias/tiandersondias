@@ -43,14 +43,14 @@ Feel free to check out my repositories and follow along as I build out my knowle
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </p>
 
 <p align="left">
   💼 Libraries:
 
+![image](https://img.shields.io/badge/JUPYTER-61dbfb?style=for-the-badge&logo=jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/VUE.JS-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/VITE-091F92?style=for-the-badge&logo=vite&logoColor=white)
