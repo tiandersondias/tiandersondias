@@ -30,20 +30,20 @@ Feel free to check out my repositories and follow along as I build out my knowle
 </p>
 
 <p align="left">
-  💽 Databases: 
-     
-![image](https://img.shields.io/badge/PostgreSQL-1b88c5?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</p>
-
-<p align="left">
   🧠 AI/ML Libraries:
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</p>
+
+<p align="left">
+  💽 Databases: 
+     
+![image](https://img.shields.io/badge/PostgreSQL-1b88c5?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
