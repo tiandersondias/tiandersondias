@@ -38,6 +38,17 @@ Feel free to check out my repositories and follow along as I build out my knowle
 </p>
 
 <p align="left">
+  🧠 AI/ML Libraries:
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</p>
+
+<p align="left">
   💼 Libraries:
 
 ![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
