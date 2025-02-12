@@ -10,6 +10,7 @@ I have hands-on experience in logistics and manufacturing software design, where
 <h2>What I'm Working On</h2>
 Actively expanding my technical skills by studying and developing projects using:
 
+<h5>Python | Pandas | TensorFlow | PyTorch: Machine learning, AI, data analysis.</h5>
 <h5>React | Vue | Next.js: For dynamic, responsive front-end applications.</h5>
 <h5>Node.js | Express: To create efficient, scalable back-end systems.</h5>
 <h5>HTML | CSS | JavaScript: The building blocks for crafting clean, accessible web interfaces.</h5>
