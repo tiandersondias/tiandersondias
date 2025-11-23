@@ -51,6 +51,7 @@ Feel free to check out my repositories and follow along as I build out my knowle
 <p align="left">
   💼 Libraries & Frameworks:
 
+![image](https://img.shields.io/badge/REFLEX-61dbfb?style=for-the-badge&logo=reflex&logoColor=white)
 ![image](https://img.shields.io/badge/JUPYTER-61dbfb?style=for-the-badge&logo=jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/REACT-61dbfb?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/NODE.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
