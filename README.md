@@ -12,7 +12,7 @@ As an experienced Operations Manager, I leverage my background in Information Te
 I have hands-on experience in logistics and manufacturing software design, where I applied modern technologies and automation to solve operational challenges. Passionate about continuous learning, I am dedicated to building innovative, AI-powered solutions that streamline processes, enhance decision-making, and improve business performance.
 
 
-Technical Strengths:
+<h2>Technical Strengths:</h2>
 • Python (Pandas, NumPy, Scikit-learn)
 • Machine Learning, LLMs, NLP, Prompt Engineering
 • Computer Vision (OpenCV)
@@ -22,14 +22,14 @@ Technical Strengths:
 • Firebase, Cloud fundamentals
 • MLOps basics (model deployment, evaluation, lifecycle)
 
-Operations & Project Expertise:
+<h2>Operations & Project Expertise:</h2>
 • ERP (Oracle, SAP)
 • Inventory, warehouse, supply chain analytics
 • Agile delivery (PMI-ACP, CSM)
 • Process automation & continuous improvement
 • Stakeholder coordination and cross-functional collaboration
 
-I’ve built practical AI applications such as:
+<h2>I’ve built practical AI applications such as:</h2>
 • Lens Quality Control AI Model – computer vision for manufacturing defect detection
 • Scrum Analytics Dashboard – AI insights using Jira API + Python + React
 • Inventory Control Web App – full-stack app with barcode scanning & stock automation
