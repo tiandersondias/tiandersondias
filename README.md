@@ -3,6 +3,38 @@
 <p align="left">
      <h1>Hi there, I'm Anderson 👋</h1>
 
+AI Engineer with a solid foundation in operations, logistics, and ERP systems, now focused on building AI solutions that automate processes, optimize workflows, and unlock data-driven decision-making.
+
+With 18+ years of experience across operations, supply chain, and project management, I bring a unique ability to connect real business problems with practical AI engineering. I’ve built hands-on AI projects that apply machine learning, automation, and full-stack development to real operational challenges.
+
+Technical Strengths:
+• Python (Pandas, NumPy, Scikit-learn)
+• Machine Learning, LLMs, NLP, Prompt Engineering
+• Computer Vision (OpenCV)
+• SQL, ETL, Data Pipelines
+• API Integrations (REST)
+• React, Node.js (AI-first application design)
+• Firebase, Cloud fundamentals
+• MLOps basics (model deployment, evaluation, lifecycle)
+
+Operations & Project Expertise:
+• ERP (Oracle, SAP)
+• Inventory, warehouse, supply chain analytics
+• Agile delivery (PMI-ACP, CSM)
+• Process automation & continuous improvement
+• Stakeholder coordination and cross-functional collaboration
+
+I’ve built practical AI applications such as:
+• Lens Quality Control AI Model – computer vision for manufacturing defect detection
+• Scrum Analytics Dashboard – AI insights using Jira API + Python + React
+• Inventory Control Web App – full-stack app with barcode scanning & stock automation
+• AI Knowledge Base System – vector embeddings, semantic search, internal AI assistant
+
+I’m passionate about translating real operational challenges into AI-powered solutions that are efficient, scalable, and business-ready.
+
+<h2>Actively exploring opportunities as:</h2>
+AI Engineer • Machine Learning Engineer • Applied AI Developer • Data Engineer
+
 As an experienced Operations Manager, I leverage my background in Information Technology Management and AI Engineering to drive process improvements and optimize operational efficiency. My Scrum Master certification, AI Engineer certificate, and graduation in Advanced Project Management have equipped me with a solid foundation in agile methodologies and AI-driven solutions, allowing me to effectively manage cross-functional teams and deliver results in tech-driven and data-centric environments.
 
 I have hands-on experience in logistics and manufacturing software design, where I applied modern technologies and automation to solve operational challenges. Passionate about continuous learning, I am dedicated to building innovative, AI-powered solutions that streamline processes, enhance decision-making, and improve business performance.
